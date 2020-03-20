@@ -1,0 +1,1 @@
+simple maven file with juniot test case
