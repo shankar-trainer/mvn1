@@ -26,6 +26,8 @@ class StudentTest {
 		 Assertions.assertEquals(stud1.getRoll(), 1001);
 		 Assertions.assertEquals(stud1, stud2);
 		 Assertions.assertEquals(stud1, stud3);
+		 Assertions.assertEquals(stud1, stud3);
+		 Assertions.assertEquals(stud1, stud3);
 	}
 
 }
