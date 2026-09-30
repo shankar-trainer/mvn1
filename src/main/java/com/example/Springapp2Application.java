@@ -1,12 +1,13 @@
-package com.abc;
+package com.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MainApp1 {
+public class Springapp2Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MainApp1.class, args);
+		SpringApplication.run(Springapp2Application.class, args);
 	}
+
 }
